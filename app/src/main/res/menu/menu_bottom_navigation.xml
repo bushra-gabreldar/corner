@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/takesFragment"
+        android:icon="@drawable/users"
+        android:title="take"
+        android:orderInCategory="1"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/userbnv"
+        android:title="profile"
+        android:orderInCategory="4"
+        app:showAsAction="always" />
+
+</menu>
